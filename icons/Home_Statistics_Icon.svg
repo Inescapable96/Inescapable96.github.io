@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Home_Statistics_Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#7EA154" offset="0%"></stop>
+            <stop stop-color="#5F9A50" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icons-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home_Statistics_Icon">
+            <circle id="Oval" fill="url(#linearGradient-1)" cx="256" cy="256" r="256"></circle>
+            <g id="Group" transform="translate(129.000000, 92.000000)" stroke-width="5" stroke="#FFFFFF">
+                <g id="Page-1">
+                    <polygon id="Stroke-1" points="0 323 64 323 64 63 0 63"></polygon>
+                    <polygon id="Stroke-3" points="95 323 159 323 159 0 95 0"></polygon>
+                    <polygon id="Stroke-4" points="190 322 254 322 254 99 190 99"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

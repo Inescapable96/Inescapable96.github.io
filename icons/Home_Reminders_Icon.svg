@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Home_Reminders_Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#7EA154" offset="0%"></stop>
+            <stop stop-color="#5F9A50" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icons-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home_Reminders_Icon">
+            <circle id="Oval" fill="url(#linearGradient-1)" cx="256" cy="256" r="256"></circle>
+            <g id="Group" transform="translate(105.000000, 93.000000)" stroke-width="5" stroke="#FFFFFF">
+                <g id="Page-1">
+                    <path d="M249.478261,328 L52.5217391,328 C23.6347826,328 0,304.384 0,275.52 L0,52.48 C0,23.616 23.6347826,0 52.5217391,0 L249.478261,0 C278.365217,0 302,23.616 302,52.48 L302,275.52 C302,304.384 278.365217,328 249.478261,328 Z" id="Stroke-1"></path>
+                    <path d="M94,76.5 C94,88.3723 84.3723,98 72.5,98 C60.6234,98 51,88.3723 51,76.5 C51,64.6234 60.6234,55 72.5,55 C84.3723,55 94,64.6234 94,76.5 Z" id="Stroke-3"></path>
+                    <path d="M94,163.5 C94,175.3723 84.3723,185 72.5,185 C60.6234,185 51,175.3723 51,163.5 C51,151.6234 60.6234,142 72.5,142 C84.3723,142 94,151.6234 94,163.5 Z" id="Stroke-5"></path>
+                    <path d="M94,251.5 C94,263.3723 84.3723,273 72.5,273 C60.6234,273 51,263.3723 51,251.5 C51,239.6234 60.6234,230 72.5,230 C84.3723,230 94,239.6234 94,251.5 Z" id="Stroke-7"></path>
+                    <path d="M121,68 L252,68" id="Stroke-9"></path>
+                    <path d="M121,156 L252,156" id="Stroke-11"></path>
+                    <path d="M121,90 L252,90" id="Stroke-13"></path>
+                    <path d="M121,177 L252,177" id="Stroke-15"></path>
+                    <path d="M121,265 L252,265" id="Stroke-17"></path>
+                    <path d="M121,242 L252,242" id="Stroke-19"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

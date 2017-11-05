@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="155px" viewBox="0 0 512 155" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Idle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="buttons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Idle">
+            <rect id="Rectangle" fill="#5F9A50" x="21" y="5" width="469" height="143" rx="71.5"></rect>
+            <text id="Button" font-family="AauxNext-Regular, Aaux Next" font-size="48" font-weight="normal" fill="#FFFFFF">
+                <tspan x="190" y="88">Button</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,41 @@
+---
+layout: default
+title: Colours
+---
+
+<div class="pageH">
+<h1>General Colours</h1>
+
+<p> Used for icons, header and paragraphs </p>
+</div>
+
+
+<div class="neat">
+  {% for colour in site.data.colours %}
+  <div><div class="colourSwatch" style="background-color: {{colour.colour}}"></div><code>{{colour.colour}}</code></div>
+  {% endfor %}
+</div>
+
+
+<div class="pageH">
+<h1>Gradients</h1>
+
+<p> Used for backgrounds and cards </p>
+</div>
+
+
+<div class="neat">
+<div><div class="colourSwatch gradient-1"></div><code>linear-gradient(to bottom right, #E0FFE5, #EFFFFF);</code></div>
+<div><div class="colourSwatch gradient-2"></div><code>linear-gradient(to bottom right, #7EA154, #5F9A50);</code></div>
+<div><div class="colourSwatch gradient-3"></div><code>linear-gradient(to bottom right, #AA7554, #9F9A50);</code></div>
+</div>
+
+
+<div class="pageH">
+<h1>Opacity</h1>
+
+<p> Used for pop ups </p>
+</div>
+<div class="neat">
+<div><div class="colourSwatch opac"></div><code>rgba(95, 154, 80, 0.7);</code></div>
+</div>

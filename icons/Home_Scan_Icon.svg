@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Home_Scan_Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#7EA154" offset="0%"></stop>
+            <stop stop-color="#5F9A50" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icons-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home_Scan_Icon">
+            <circle id="Oval" fill="url(#linearGradient-1)" cx="256" cy="256" r="256"></circle>
+            <g id="Group" transform="translate(99.000000, 97.000000)">
+                <g id="Page-1"></g>
+                <path d="M0,83 C0,37.3512713 37.3512713,0 83,0" id="Stroke-1" stroke="#FFFFFF" stroke-width="5"></path>
+                <path d="M232,0 C277.648729,0 315,37.3470336 315,83" id="Stroke-3" stroke="#FFFFFF" stroke-width="5"></path>
+                <path d="M315,236 C315,281.648729 277.652966,319 232,319" id="Stroke-5" stroke="#FFFFFF" stroke-width="5"></path>
+                <path d="M83,319 C37.3512713,319 0,281.652966 0,236" id="Stroke-7" stroke="#FFFFFF" stroke-width="5"></path>
+                <path d="M238.25,89.5 L217,89.5 L217,81 C217,71.65 209.35,64 200,64 L119.25,64 C109.9,64 102.25,71.65 102.25,81 L102.25,89.5 L76.75,89.5 C60.3875,89.5 47,102.8875 47,119.25 L47,204.25 C47,220.6125 60.3875,234 76.75,234 L238.25,234 C254.6125,234 268,220.6125 268,204.25 L268,119.25 C268,102.8875 254.6125,89.5 238.25,89.5 Z" id="Stroke-9" stroke="#FFFFFF" stroke-width="5"></path>
+                <path d="M157,191 C137.119529,191 121,174.880471 121,155 C121,135.119529 137.119529,119 157,119 C176.880471,119 193,135.119529 193,155 C193,174.880471 176.880471,191 157,191 Z" id="Stroke-11" stroke="#FFFFFF" stroke-width="5"></path>
+                <path d="M110,131.5 C110,138.404167 104.180333,144 97,144 C89.8196667,144 84,138.404167 84,131.5 C84,124.595833 89.8196667,119 97,119 C104.180333,119 110,124.595833 110,131.5 Z" id="Stroke-13" stroke="#FFFFFF" stroke-width="5"></path>
+            </g>
+        </g>
+    </g>
+</svg>

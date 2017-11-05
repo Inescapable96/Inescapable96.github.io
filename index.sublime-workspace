@@ -1,0 +1,578 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"f",
+				"flex-end"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"al",
+				"align-content"
+			],
+			[
+				"sp",
+				"space-between"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"pdd",
+				"padding-left"
+			],
+			[
+				"pading",
+				"padding-left"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"book",
+				"bookStuff"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"flex-",
+				"flex-wrap"
+			],
+			[
+				"fle",
+				"flex"
+			],
+			[
+				"boo",
+				"bookTags"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"spae",
+				"space-between"
+			],
+			[
+				"s",
+				"flex-start"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"Fe",
+				"Feminity"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"spac",
+				"space-around"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"tra",
+				"translateX()"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"trans",
+				"translate"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"tr",
+				"translateX()"
+			],
+			[
+				"magin",
+				"margin"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"space-",
+				"space-between"
+			],
+			[
+				"felx",
+				"flex-direction"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"paddo",
+				"padding-top"
+			],
+			[
+				"tranlat",
+				"translateX"
+			],
+			[
+				"tran",
+				"text-decoration"
+			],
+			[
+				"bord",
+				"border-bottom-right-radius"
+			],
+			[
+				"magi",
+				"margin"
+			],
+			[
+				"getEleme",
+				"getElementsByTagName"
+			],
+			[
+				"my",
+				"myInput"
+			],
+			[
+				"lg",
+				"length"
+			],
+			[
+				"material",
+				"materialSynonyms"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"waste",
+				"wastedata"
+			],
+			[
+				"obj",
+				"object-position"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"po",
+				"object-position"
+			],
+			[
+				"comp",
+				"compPick"
+			],
+			[
+				"human",
+				"Human"
+			],
+			[
+				"h",
+				"humanPick"
+			],
+			[
+				"com",
+				"compPick"
+			],
+			[
+				"ram",
+				"randomNumber"
+			],
+			[
+				"random",
+				"randomNumber"
+			],
+			[
+				"In",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"position",
+				"position"
+			],
+			[
+				"back-",
+				"background-image"
+			],
+			[
+				"bkac",
+				"background-color"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"fi",
+				"figcaption\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "colo",
+		"selected_items":
+		[
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"package control instl",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 108.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/style guide/wastefree/index.md",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Misinformation/website/stylesheet.css",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Misinformation/website/index.html",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/Major Project/index3.html",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/Major Project/index.html",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/Major Project/stylesheet.css",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/Major Project/stylesheet3.css",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/Major Project/stylesheet2.css",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/Major Project/index2.html",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/Major Project/books.js",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/Week 2/index.html",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/week 3/index.html",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/Gvozdich-Ines_assignment-2/index.html",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/Gvozdich-Ines_assignment-2/stylesheet.css",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/Gvozdich-Ines_assignment-2/Waste.js",
+		"/Users/inesgvozdich/Desktop/sleeping duck/style guide/stylesheet.css",
+		"/Users/inesgvozdich/Desktop/sleeping duck/style guide/index.html",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/Gvozdich-Ines_Assignment-1/stylesheet.css",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/Gvozdich-Ines_Assignment-1/index.html",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/Project 2/index.html",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/Project 2/Waste.js",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/week 7/index.html",
+		"/Users/inesgvozdich/Desktop/Gvozd/style.css",
+		"/Users/inesgvozdich/Desktop/Gvozd/index.html",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/Project 2/stylesheet.css",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/Project 2/test2.html",
+		"/Users/inesgvozdich/Desktop/jsfiddle.net.html",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/Project 2/text.html",
+		"/Users/inesgvozdich/Downloads/New Folder With Items/plData (1).js",
+		"/Users/inesgvozdich/Downloads/New Folder With Items/tableDataDemo.html",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/Week 5/datademo.html",
+		"/Users/inesgvozdich/Downloads/New Folder With Items/dataTableDemo2.html",
+		"/Users/inesgvozdich/Desktop/Ines Website/stylesheet.css",
+		"/Users/inesgvozdich/Desktop/Ines Website/Index.html",
+		"/Users/inesgvozdich/Downloads/plData.js",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/Assignment 1/index.html",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/week 4/index.html",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/Week 5/index.html",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/Assignment 1/stylesheet.css",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/Assignment 1/Images/light.svg",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/Assignment 1/stylesheet2.css",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/week 3/stylesheet.css",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/week 3/index2.html",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/Assignment 1/index2.html",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/Assignment 1/Images/testbg.svg",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/Week 2/stylesheet.css",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/Webdesign/index.html",
+		"/Users/inesgvozdich/Desktop/Webdesign/index.html",
+		"/Users/inesgvozdich/Desktop/Uni Sem 2/Web Design/Week 2/index copy.html",
+		"/index.html",
+		"/Users/inesgvozdich/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/inesgvozdich/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"1995",
+			"crime",
+			"_",
+			"\"tags\"",
+			".jpg\"",
+			"\"map\": \"cool\",",
+			"},",
+			";\n",
+			"stylesheet"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".jpg\",",
+			"\"map\": \"cool\"",
+			"  \"pos\": \"top: 50%; left: 50%;\",\n    \"map\": \"cool\",\n  },",
+			"  \"pos\": \"top: 50%; left: 50%;\",\n  },",
+			"  \"pos\": \"top: 50%; left: 50%;\",\n},"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

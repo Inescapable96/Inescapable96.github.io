@@ -1,0 +1,21 @@
+[
+
+    { "title": "Scan Home icon", "icon": "Home_Scan_Icon.svg" },
+    { "title": "Reminders Home icon", "icon": "Home_Reminders_Icon.svg" },
+    { "title": "Statistics Home icon", "icon": "Home_Statistics_Icon.svg" },
+    { "title": "Recipes Home icon", "icon": "Home_Recipes_Icon.svg" },
+    { "title": "Scan Navigation icon", "icon": "Nav_Scan.svg" },
+    { "title": "Reminders Navigation icon", "icon": "Nav_Reminders.svg" },
+    { "title": "Statistics Navigation icon", "icon": "Nav_Statistics.svg" },
+    { "title": "Recipes Navigation icon", "icon": "Nav_Recipes.svg" },
+    { "title": "Settings", "icon": "settings_dark-bg.svg" },
+    { "title": "Drop Down Input", "icon": "Drop_Down.svg" },
+    { "title": "Home", "icon": "Home.svg" },
+    { "title": "Tick", "icon": "Tick.svg" },
+    { "title": "Previous", "icon": "previous.svg" },
+    { "title": "Next", "icon": "next.svg" },
+    { "title": "Notification", "icon": "Notification_dark-bg.svg" },
+    { "title": "Cross", "icon": "Cross.svg" },
+    { "title": "Back", "icon": "back_dark-bg.svg" }
+
+]

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="550px" height="550px" viewBox="0 0 550 550" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #5F9A50;">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Nav_Reminders</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Nav_Reminders" stroke-width="4">
+            <g id="Page-1-Copy" transform="translate(34.000000, 117.000000)">
+                <path d="M105,52.5 C105,81.4944226 81.4944226,105 52.5,105 C23.5055774,105 0,81.4944226 0,52.5 C0,23.5055774 23.5055774,0 52.5,0 C81.4944226,0 105,23.5055774 105,52.5 Z" id="Stroke-1" stroke="#FFFFFF"></path>
+                <path d="M105,263.5 C105,292.494423 81.4944226,316 52.5,316 C23.5055774,316 0,292.494423 0,263.5 C0,234.505577 23.5055774,211 52.5,211 C81.4944226,211 105,234.505577 105,263.5 Z" id="Stroke-3" stroke="#FFFFFF"></path>
+                <path d="M168,32 L483,32" id="Stroke-5" stroke="#FFFFFF"></path>
+                <path d="M168,242 L483,242" id="Stroke-7" stroke="#F0F7F1"></path>
+                <path d="M168,84 L483,84" id="Stroke-9" stroke="#FFFFFF"></path>
+                <path d="M168,295 L483,295" id="Stroke-11" stroke="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

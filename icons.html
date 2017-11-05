@@ -1,0 +1,17 @@
+---
+layout: default
+title: Icons
+---
+
+<div class="pageH">
+<h1>Iconography</h1>
+
+<p> Here you will find the basic design of the icons used in the app. <br> </br>
+Icons are used with a thin 3px outline. Invert the colours on a lighter background. </p>
+</div>
+
+<div class="neat">
+  {% for icon in site.data.icons %}
+  <div> <img class="iconS" src="/icons/{{icon.icon}}"/><span>{{icon.title}}</span></div>
+  {% endfor %}
+</div>

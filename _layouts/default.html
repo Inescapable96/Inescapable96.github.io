@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
+
+  <meta charset="utf-8">
+  <title>{{ page.title }} - {{site.title}}</title>
+
+
+  <script src="https://use.typekit.net/wby5mes.js"></script>
+  <script>
+    try {
+      Typekit.load({
+        async: true
+      });
+    } catch (e) {}
+  </script>
+</head>
+
+<body>
+
+
+
+
+
+  <!-- Left menu -->
+  <header>
+
+    <!-- Menu -->
+    <ul class="Menu">
+      <li><h3 class="verveine">Waste Free</h3>
+      </li>
+      <li>
+        <a href="/">Overview</a>
+      </li>
+      <li>
+        <div class="menutit">Branding</div>
+        <ul>
+          <li><a href="/colours/">Colour</a></li>
+          <li><a href="/type/">Typography</a></li>
+          <li><a href="/icons/">Icons</a></li>
+        </ul>
+      </li>
+      <li>
+        <div class="menutit">Components</div>
+        <ul>
+          <li><a href="/buttons/">Buttons</a></li>
+          <li><a href="/background/">Background</a></li>
+          <li><a href="/layout/">Layout</a></li>
+        </ul>
+      </li>
+    </ul>
+  </header>
+
+
+
+  <!-- Right hand information -->
+  <div class="containerwraper"><div class="Container">
+
+    {{ content }}
+
+  </div></div>
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
