@@ -27,6 +27,8 @@ github_username:  jekyll
 sass:
   sass_dir: _sass
 
+permalink: pretty
+
 # Build settings
 markdown: kramdown
 theme: minima
