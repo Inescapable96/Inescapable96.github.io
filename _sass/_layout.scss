@@ -9,6 +9,12 @@ html {
   background-color: rgb(242, 242, 242);
 
 }
+.Container {
+  max-width: 544px;
+  margin: 0 auto;
+  padding: 2rem;
+
+}
 
 .pageH{
   margin-bottom: 5rem;
@@ -16,6 +22,9 @@ html {
 
 section{
   margin-bottom: 4rem;
+  background-color: white;
+  padding: 2rem;
+
 }
 
 section p{
@@ -28,7 +37,7 @@ header {
   width: 250px;
   height: 100vh;
   position: fixed;
-  background-color: #DEE5E5;
+  background-color: rgb( 220, 220, 220);
 }
 
 header .Menu {
@@ -69,12 +78,7 @@ header .Menu {
 
 }
 
-.Container {
-  max-width: 500px;
-  margin: 0 auto;
-  padding: 2rem;
 
-}
 
 .center{
   text-align: center;
@@ -85,7 +89,8 @@ header .Menu {
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
-  margin-bottom: 30 px;
+  margin-bottom: -20px;
+
 }
 
 .neat > div{
@@ -95,6 +100,7 @@ header .Menu {
   flex-direction: column;
   text-align: center;
 }
+
 
 .neat code, .neat span{
   display: inline-block;
@@ -115,7 +121,7 @@ img{
 }
 
 .bg{
-  width: 200px;
+  width: 140px;
 }
 
 .smol{
