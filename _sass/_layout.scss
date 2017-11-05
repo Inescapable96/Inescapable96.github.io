@@ -43,6 +43,7 @@ header .Menu {
   text-decoration: none;
   padding: 1rem;
   display: block;
+  color: black;
 }
 
 .Menu li li a {
@@ -50,7 +51,8 @@ header .Menu {
 }
 
 .Menu li {
-  font-weight: 200;
+
+
   text-decoration: none;
   display: block;
   color: black;
@@ -58,11 +60,12 @@ header .Menu {
 
 .menutit{
   padding: 1rem;
+    font-weight: bold;
 }
 
 .Menu a:hover {
   color: #242633;
-  background-color: #FAF0E5;
+  background-color: rgb(242, 242, 242);
 
 }
 
